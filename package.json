@@ -9,8 +9,11 @@
   },
   "dependencies": {
     "@babel/runtime": "7.0.0-beta.55",
+    "faker": "^4.1.0",
+    "lodash": "^4.17.10",
     "meteor-node-stubs": "^0.4.1",
     "react": "^16.4.2",
+    "react-addons-pure-render-mixin": "^15.6.2",
     "react-dom": "^16.4.2"
   }
 }

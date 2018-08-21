@@ -1,9 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import EmployeeList from './components/EmployeeList';
 
 const App = () => {
   return (
-    <div>This is the App Component</div>
+    <div>
+      <EmployeeList />
+    </div>
   )
 }
 
